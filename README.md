@@ -25,6 +25,10 @@ An event management system built using Spring Boot for the backend and JSP for t
 - **Database:** MySQL (for storing form submissions, event data, etc.)
 - **Build Tool:** Maven
 
+### Screenshots
+
+**Home Page**
+![Screenshot 2024-10-21 214114](https://github.com/user-attachments/assets/575a068d-6b61-4e68-9d75-da12885f4d38)
 
 
 
