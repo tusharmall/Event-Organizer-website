@@ -14,9 +14,16 @@ An event management system built using Spring Boot for the backend and JSP for t
 - **Backend:**
 
   - Spring Boot
+  - Spring Data JPA
+  - JSP for views
+- **Frontend:**
 
-
-
+  - HTML5
+  - CSS3, JavaScript
+  - Swiper.js for sliders
+    
+- **Database:** MySQL (for storing form submissions, event data, etc.)
+- **Build Tool:** Maven
 
 
 
