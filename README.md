@@ -1,4 +1,4 @@
-![Screenshot 2024-10-21 214240](https://github.com/user-attachments/assets/675ffb5c-9da5-4066-b2ec-f1474f3b3325)# Event-Organizer-website
+# Event-Organizer-website
 An event management system built using Spring Boot for the backend and JSP for the frontend. This project allows users to browse through events and contact the organizers using a contact form. The site features dynamic UI elements such as theme toggling, sliders for home and review sections, and form validation.
 
 ### Features
