@@ -12,7 +12,8 @@ An event management system built using Spring Boot for the backend and JSP for t
 
 ### Technologies Used
 - **Backend:**
-      - Spring Boot
+
+  - Spring Boot
 
 
 
